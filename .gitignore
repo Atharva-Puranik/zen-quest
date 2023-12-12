@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+/src/main/java/com/atharvapuranik/zenquest/todo/todoController.java
+/src/main/java/com/atharvapuranik/zenquest/todo/todoService.java
